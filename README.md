@@ -1,6 +1,7 @@
 # throwaway lab
 
-A personal tracker for building momentum without portfolio pressure.
+A personal tracker for building momentum and not worrying about stuff being "resume-worthy"
+
 
 ## stack
 
